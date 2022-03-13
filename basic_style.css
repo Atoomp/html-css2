@@ -18,7 +18,7 @@ h1 {
 
 
 .container .squares:nth-child(-n+4) {
-    background-image: url("../images/icons/smileyface1.png")
+    background-image: url("../html-css/images/icons/smileyface1.png");
     color: #fff;
     float: left;
     width: 100px;
@@ -56,7 +56,7 @@ h1 {
 }
 
 .container .squares:nth-child(-n+4):hover {
-    background-image: url("../images/icons/smileyface1.png");
+    background-image: url("../html-css/images/icons/smileyface2.png");
 }
 
 .squares:nth-child(1):hover {
